@@ -1,1 +1,0 @@
-[h: defineFunction("setFacing", "setFacing@Lib:Facing")]

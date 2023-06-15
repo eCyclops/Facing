@@ -1,14 +1,14 @@
 {
   "name": "Lib:Facing",
-  "version": "unknown",
-  "website": "",
-  "gitUrl": "",
-  "authors": [""],
-  "license": "",
+  "version": "0.1.0",
+  "website": "ecyclops.com",
+  "gitUrl": "github.com/eCyclops/facing-lib",
+  "authors": ["eCyclops"],
+  "license": "GPL 3",
   "namespace": "Facing",
-  "description": "",
-  "shortDescription": "",
-  "allowsUriAccess": false,
-  "licenseFile": "",
-  "readMeFile": ""
+  "description": "A Small Addon to provide easily changing a token's facing.",
+  "shortDescription": "Change token facing",
+  "allowsUriAccess": true,
+  "licenseFile": "license.txt",
+  "readMeFile": "README.md"
 }
