@@ -1,2 +1,2 @@
-[h: defineFunction("setFacing", "setFacing@this")]
-[r: macro("facingPanel@this"]
+[h: defineFunction("setFacing", "setFacing@Lib:Facing")]
+[r: macro("facingPanel@Lib:Facing"]
