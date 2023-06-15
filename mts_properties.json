@@ -1,18 +1,18 @@
 {
   "properties": [{
-    "filename": "public/macro_2.mts",
+    "filename": "public/facingCSS.mts",
     "autoExecute": true
   }, {
-    "filename": "public/macro_1.mts",
+    "filename": "public/facingPanel.mts",
     "autoExecute": true
   }, {
-    "filename": "public/macro_0.mts",
+    "filename": "public/setFacing.mts",
     "autoExecute": true
   }, {
-    "filename": "public/macro_3.mts",
+    "filename": "public/Set Token Facing.mts",
     "autoExecute": true
   }, {
-    "filename": "public/onCampaignLoad.mts",
+    "filename": "public/onInit.mts",
     "autoExecute": true
   }]
 }
